@@ -25,3 +25,6 @@ This copies the /app binary built in the build stage to the scratch-based stage.
 7. Layer 7: Set entrypoint (ENTRYPOINT ["/app"])
 ENTRYPOINT ["/app"]
 This sets the entrypoint for the container to the /app binary.
+
+
+image size is 1.83MB
