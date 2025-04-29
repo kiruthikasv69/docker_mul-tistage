@@ -9,3 +9,6 @@ Setting environment variable (ENV)
 Copying source files (COPY . .)
 
 Building the application (RUN go build)
+
+
+image size is 861MB 
