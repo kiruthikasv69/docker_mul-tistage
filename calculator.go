@@ -44,7 +44,7 @@ func main() {
 			continue
 		}
 
-		// Perform the calculation based on the operator
+		// Perform the calculation based on the operators
 		var result int
 		switch parts[1] {
 		case "+":
